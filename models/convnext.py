@@ -1,3 +1,5 @@
+# copied from https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py
+
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 
 # All rights reserved.
